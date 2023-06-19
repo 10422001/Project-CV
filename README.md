@@ -1,8 +1,6 @@
 <h1 align="center">
-  <img src="" alt="CV-Generator">
 
-  <a href="cv.DominikOcsofszki.dev">Documentation</a> |
-  %% <a href="cv.DominikOcsofszki.dev">Chat</a>
+  <a href="cv.DominikOcsofszki.dev">Website</a> |
 </h1>
 
 CV Generator is a project that seeks to implement a converter from LaTex To Markdown/Flutter, Markdown to LaTex/Flutter:
@@ -19,3 +17,7 @@ Project layout
 [features]: https://github.com/10422001
 [news]: https://github.com/10422001
 [Roadmap]: https://github.com/10422001
+
+
+
+%% <img src="" alt="CV-Generator">
